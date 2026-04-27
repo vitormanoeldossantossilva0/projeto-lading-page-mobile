@@ -9,6 +9,7 @@
     position: absolute;
     bottom: 0;
     right: -3.5rem;
+     filter: drop-shadow(black 20px 10px 4px);
   }
 
   .buttons {

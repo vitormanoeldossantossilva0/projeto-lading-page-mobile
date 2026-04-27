@@ -28,7 +28,7 @@ footer {
   & img {
    width: 85px;
    height: 32px;
-  }
+   }
 
   & .bottom {
     flex-wrap: wrap;
