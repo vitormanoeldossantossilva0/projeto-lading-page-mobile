@@ -21,6 +21,7 @@ section p {
   color: var(--text-color-secondary);
 }
 
+
 @media (width >= 80em) {
   #smartphones-img {
     display: none;

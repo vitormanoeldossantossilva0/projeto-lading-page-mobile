@@ -1,0 +1,16 @@
+#featured img {
+  height: 30px;
+  width: 30px;
+  
+}
+
+.card {
+  background-color: var(--surface-color);
+  border: 1px solid var(--stroke-color);
+  border-radius: 1.5rem;
+  padding: 20px;
+
+  & h3 {
+    margin-top: 1rem;
+  }
+}
